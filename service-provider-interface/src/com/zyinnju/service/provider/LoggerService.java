@@ -1,4 +1,4 @@
-package com.zyinnju;
+package com.zyinnju.service.provider;
 
 import java.util.ArrayList;
 import java.util.List;
